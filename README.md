@@ -11,3 +11,8 @@ Esta es una tarea de laboratorio de métodos computacionales
 [enlace de Google](https://www.google.com/)
 
 ![Villa de Leyva](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Panor%C3%A1mica_de_Villa_de_Leyva.jpg/1024px-Panor%C3%A1mica_de_Villa_de_Leyva.jpg)
+
+
+## Acerca del Autor:
+
+Daniel Rojas es un estudiante de Geociencas de la Universidad de los Andes, nación el 27 de Abril de 1999.
