@@ -19,4 +19,4 @@ Daniel Rojas es un estudiante de Geociencas de la Universidad de los Andes, naci
 
 
 ## Sobre el colaborador:
-Recibido , ATT: Camilo Rueda Perez.
+Recibido , ATT: Camilo Rueda Perez. Nací el 7 de diciembre del 2000, estudio Física. Me gusta jugar futbol, leer, ver peliculas.
