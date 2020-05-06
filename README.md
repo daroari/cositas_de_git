@@ -16,3 +16,7 @@ Esta es una tarea de laboratorio de métodos computacionales
 ## Acerca del Autor:
 
 Daniel Rojas es un estudiante de Geociencas de la Universidad de los Andes, nación el 27 de Abril de 1999. 
+
+
+## Sobre el colaborador:
+Recibido , ATT: Camilo Rueda Perez.
