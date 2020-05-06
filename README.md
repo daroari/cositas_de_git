@@ -3,10 +3,10 @@ Esta es una tarea de laboratorio de métodos computacionales
 
 ### Formato de Markdown 
 
-*hola
-*soy 
-*una 
-*lista
+* hola
+* soy 
+* una 
+* lista
 
 [enlace de Google](https://www.google.com/)
 
